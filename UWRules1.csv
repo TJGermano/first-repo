@@ -1,0 +1,9 @@
+age,diabetes,smoker,approval,rateclass
+>18,FALSE,FALSE,Yes,Ultra
+>18,TRUE,FALSE,No,Decline
+>18,FALSE,TRUE,Yes,Tobacco
+>18,TRUE,TRUE,No,Decline
+<18,FALSE,FALSE,No,Ineligible
+<18,TRUE,FALSE,No,Ineligible
+<18,FALSE,TRUE,No,Ineligible
+<18,TRUE,TRUE,No,Ineligible
