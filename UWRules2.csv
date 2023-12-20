@@ -1,4 +1,4 @@
-diabetes,smoker,armed forces,brain,heart,approval,rateclass
+diabetes,smoker,armedforces,brain,heart,approval,rateclass
 FALSE,FALSE,FALSE,FALSE,FALSE,Yes,Ultra
 TRUE,FALSE,FALSE,FALSE,FALSE,Yes,Better
 FALSE,TRUE,FALSE,FALSE,FALSE,Yes,Tobacco
