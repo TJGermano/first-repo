@@ -1,4 +1,4 @@
-Pregnancy,Felonious,Pilot,Alcohol,Disabeled,ImmunoDeficient,Juvi Smoker,HeartCondition,HadCancer,BloodDisorder,BrainDIsorder,Emotionaldisorder,Asthma,BenignTumor,HadBonchitis,Hadrespitorydisorder,HadDigestiveDisorder,HadBoneMuscularDisorder,HadThyriodissues,AsthmaMeds,approval,rateclass
+Pregnancy,Felonious,Pilot,Alcohol,Disabeled,ImmunoDeficient,JuviSmoker,HeartCondition,HadCancer,BloodDisorder,BrainDIsorder,Emotionaldisorder,Asthma,BenignTumor,HadBonchitis,Hadrespitorydisorder,HadDigestiveDisorder,HadBoneMuscularDisorder,HadThyriodissues,AsthmaMeds,approval,rateclass
 TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No,Decline
 FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No,Decline
 FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Yes,Better
