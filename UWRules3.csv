@@ -1,0 +1,7 @@
+armed forces,brain,heart,approval,rateclass
+FALSE,FALSE,FALSE,Yes,Ultra
+TRUE,FALSE,FALSE,Yes,Better
+FALSE,TRUE,FALSE,No,Decline
+FALSE,FALSE,TRUE,No,Decline
+FALSE,TRUE,TRUE,No,Decline
+TRUE,TRUE,TRUE,No,Decline
