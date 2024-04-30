@@ -1,6 +1,6 @@
 Alcohol,ImmunoDeficient,BloodDisorder,Asthma,approval,rateclass
-TRUE,FALSE,FALSE,FALSE,No,Decline
-FALSE,TRUE,FALSE,FALSE,No,Decline
-FALSE,FALSE,TRUE,FALSE,No,Decline
+TRUE,FALSE,FALSE,FALSE,No,null
+FALSE,TRUE,FALSE,FALSE,No,null
+FALSE,FALSE,TRUE,FALSE,No,null
 FALSE,FALSE,FALSE,TRUE,Yes,Better
 FALSE,FALSE,FALSE,FALSE,Yes,Ultra
